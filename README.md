@@ -20,5 +20,9 @@ Il funzionamento del server RTMP è molto semplice: il client in streaming si co
 #### Esempio:
 
 > Il client in streaming si connette al server `rtmp://127.0.0.1:999/live/streaming1` e dopo l'handshake inizia a inviare i pacchetti video
+
 > Il server riceve i pacchetti e li inoltra a tutti i client connessi all'indirizzo specificato dal client in streaming
+
 > Un client può vedere la diretta connettendori a `rtmp://127.0.0.1:999/live/streaming1` mentre può vederne un'altra connettendosi a `rtmp://127.0.0.1:999/live/streaming2`
+
+Ulteriori informazioni sul protocollo RTMP potete trovarle su [Wikipedia](https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol) o sul [Manuale Ufficiale](https://www.adobe.com/devnet/rtmp.html)
