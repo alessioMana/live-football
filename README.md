@@ -11,7 +11,7 @@ Apri il progetto che ti interessa modificare e fai la modifiche che vuoi su una 
 
 #### :warning: Attenzione! :warning:
 ***
-__Nella pull request seleziona sempre il branch della funzionalità che stai modificando (le pull request al master non verranno considerate) e se stai inviando un codice non ancora finito segnalalo con il tag `In Progress`__
+__Nella pull request seleziona sempre il branch della funzionalità che stai modificando (le pull request al master non verranno considerate) e se stai inviando un codice non ancora finito segnalalo con il tag `In Progress` o, al contrario, con `working`__
 ***
 ## Tipi di progetto:
 
