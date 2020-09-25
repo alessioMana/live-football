@@ -11,7 +11,7 @@ Apri il progetto che ti interessa modificare e fai la modifiche che vuoi su una 
 
 #### :warning: Attenzione! :warning:
 ***
-__Perfavore quando crei una pull request seleziona sempre dai progetti che cosa hai modificato e se stai inviando un codice non ancora finito segnalalo con il tag Issue__
+__Perfavore quando crei una pull request seleziona sempre dai progetti che cosa hai modificato e se stai inviando un codice non ancora finito segnalalo con il tag `Da Finire`__
 ***
 ## Tipi di progetto:
 
