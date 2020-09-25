@@ -22,6 +22,8 @@ Sono presenti diverse parti del progetto individuali:
   - Android
   - IOS
   - Web (Testing del server attuale)
+  
+Guarda la [wiki](https://github.com/alessioMana/live-football/wiki) per saperne di più.
 
 ## Il protocollo RTMP:
 
