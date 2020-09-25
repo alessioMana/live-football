@@ -3,6 +3,12 @@
 
 Apri il progetto che ti interessa modificare e fai la modifiche che vuoi su una copia del branch sul tuo profilo, quando hai finito fai la pull request in modo che io possa vedere le modifiche, testare il codice e applicarle.
 
+> Per modificare il server e le pagine Web puoi farlo direttamente da qualsiasi editor o da GitHub Web
+
+> Per modificare l'app Android segui [questo tutorial](https://www.html.it/pag/67712/integrare-github-in-android-studio/) per installare git su Android Studio
+
+> IOS Coming Soon!
+
 ## Tipi di progetto:
 
 Sono presenti diverse parti del progetto individuali:
