@@ -7,11 +7,11 @@ Apri il progetto che ti interessa modificare e fai la modifiche che vuoi su una 
 
 > Per modificare l'app Android segui [questo tutorial](https://www.html.it/pag/67712/integrare-github-in-android-studio/) per installare git su Android Studio
 
-> IOS Coming Soon!
+> IOS Coming Soon! (Se qualcuno volesse iniziare a svilupparlo è libero di farlo)
 
 #### :warning: Attenzione! :warning:
 ***
-__Perfavore quando crei una pull request seleziona sempre dai progetti che cosa hai modificato e se stai inviando un codice non ancora finito segnalalo con il tag `Da Finire`__
+__Perfavore quando crei una pull request seleziona sempre dai progetti che cosa hai modificato e se stai inviando un codice non ancora finito segnalalo con il tag `In Progress`__
 ***
 ## Tipi di progetto:
 
